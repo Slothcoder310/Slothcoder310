@@ -154,39 +154,6 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 </details>
 
-<details open>
-<summary><h3>🤖 ML Model Deployment System</h3></summary>
-
-> Machine learning model deployment and monitoring platform
-
-**🛠️ Stack**: Python, TensorFlow, FastAPI, Docker  
-**✨ Features**: Model versioning, A/B testing, performance monitoring  
-**🎯 Highlights**: Scalable ML infrastructure with automated deployment  
-
-</details>
-
-<details open>
-<summary><h3>☁️ Cloud Infrastructure Manager</h3></summary>
-
-> Cloud resource management and automation tool
-
-**🛠️ Stack**: Python, AWS SDK, Terraform, React  
-**✨ Features**: Resource provisioning, cost optimization, infrastructure as code  
-**🎯 Purpose**: Simplifying cloud operations and reducing costs  
-
-</details>
-
-<details open>
-<summary><h3>🔍 System Design Patterns Library</h3></summary>
-
-> Comprehensive collection of system design patterns and implementations
-
-**🛠️ Stack**: Multiple languages, Documentation, Code examples  
-**✨ Features**: Design patterns, best practices, scalable architectures  
-**🎯 Impact**: Educational resource for system design learning  
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
